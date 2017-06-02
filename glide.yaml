@@ -1,2 +1,4 @@
 package: github.com/Ovinatter/GoHands-on
-import: []
+import:
+- package: github.com/gin-gonic/gin
+  version: ^1.1.4
